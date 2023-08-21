@@ -1,0 +1,10 @@
+{
+    "program": "zns_registrar.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpJZX31VP7Y5wvWcg26GNH8sC3eJLEDzpCntKoq9pLXpKM",
+        "address": "aleo1ww6v0cxh64865l0zh9e5narv0hrt223ddl3stmpqwvvdrs2ehgrsfscwn3"
+    },
+    "license": "MIT"
+}
